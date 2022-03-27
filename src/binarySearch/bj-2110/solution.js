@@ -22,7 +22,7 @@ function isPossible(d) {
     }
   }
   return cnt >= c; // cnt: d 거리를 수용할 수 잇는 범위의 집을 count한 숫자,
-  //
+
 }
 
 function solution(n, c, x) {
