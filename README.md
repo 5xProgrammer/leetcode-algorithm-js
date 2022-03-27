@@ -23,3 +23,22 @@
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | [JS]() | [JS]() |        |     |     | Easy       |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | [JS]() | [JS]() |        |     |     | Easy       |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                                     | [JS]() | [JS]() |        |     |     | Medium     |
+
+# 🍎 백준 유형별 풀이
+
+## Binary Search
+
+| level                                                         | category      | Question                                            | solution               |
+| ------------------------------------------------------------- | ------------- | --------------------------------------------------- | ---------------------- |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"> | Binary Search | [공유기 설치](https://www.acmicpc.net/problem/2110) | [source code][bj-2110] |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"> | Binary Search | [기타 레슨](https://www.acmicpc.net/problem/2343)   | [source code][bj-2343] |
+
+## Two Pointer
+
+| level                                                         | category    | Question                                       | solution                |
+| ------------------------------------------------------------- | ----------- | ---------------------------------------------- | ----------------------- |
+| <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"> | two pointer | [부분합](https://www.acmicpc.net/problem/1806) | [source code][ bj-1806] |
+
+[bj-1806]: /src/twopointer/bj-1806/solution.js
+[bj-2110]: /src/binarySearch/bj-2110/solution.js
+[bj-2343]: /src/binarySearch/bj-2343/solution.js
